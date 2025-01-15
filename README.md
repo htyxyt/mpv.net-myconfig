@@ -7,10 +7,8 @@
 ## 更新了[mpv.net](https://github.com/mpvnet-player/mpv.net)
 v7.1.1.0
 ## 更新并修改了[ModernX](https://github.com/zydezu/ModernX)
-v0.3.6.6
+v0.4.0
 
-新增了reduced布局，osc占用窗口面积更小,可通过modernx.conf->layoutoption切换。
-
-新增了osc触发高度调整，可通过modernx.conf-bottomhoverheight设置。
+新增了reduced布局，降低osc高度，减少画面遮挡，可通过modernx.conf->layoutoption进行切换。
 
 ## 修改配置参考[mpv手册](https://hooke007.github.io/index.html)
